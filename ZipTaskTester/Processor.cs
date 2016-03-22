@@ -68,7 +68,7 @@ namespace ZipTaskTester
                 else
                 {
                     // TODO - log - no processed directory at all!!
-                    Console.WriteLine("Cannot find directory \"Processed\"");
+                    Console.WriteLine("Cannot find directory \"Processed\" - lets make a change to show how commits work to a new branch");
                 }
             });
         }
