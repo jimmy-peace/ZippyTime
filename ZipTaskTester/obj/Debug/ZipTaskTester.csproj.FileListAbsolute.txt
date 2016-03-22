@@ -1,0 +1,6 @@
+c:\users\ben\documents\visual studio 2015\Projects\ZipTaskTester\ZipTaskTester\bin\Debug\ZipTaskTester.exe.config
+C:\Users\ben\documents\visual studio 2015\Projects\ZipTaskTester\ZipTaskTester\bin\Debug\ZipTaskTester.exe
+C:\Users\ben\documents\visual studio 2015\Projects\ZipTaskTester\ZipTaskTester\bin\Debug\ZipTaskTester.pdb
+C:\Users\ben\documents\visual studio 2015\Projects\ZipTaskTester\ZipTaskTester\obj\Debug\ZipTaskTester.csprojResolveAssemblyReference.cache
+C:\Users\ben\documents\visual studio 2015\Projects\ZipTaskTester\ZipTaskTester\obj\Debug\ZipTaskTester.exe
+C:\Users\ben\documents\visual studio 2015\Projects\ZipTaskTester\ZipTaskTester\obj\Debug\ZipTaskTester.pdb
